@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thomas Chamberlin</title><link href="https://thomaschamberlin.com/" rel="alternate"></link><link href="https://thomaschamberlin.com/feeds/all.atom.xml" rel="self"></link><id>https://thomaschamberlin.com/</id><updated>2018-05-24T18:10:00-04:00</updated><entry><title>Picnic Table</title><link href="https://thomaschamberlin.com/picnic-table.html" rel="alternate"></link><published>2018-05-24T18:10:00-04:00</published><updated>2018-05-24T18:10:00-04:00</updated><author><name>Thomas Chamberlin</name></author><id>tag:thomaschamberlin.com,2018-05-24:/picnic-table.html</id><summary type="html">&lt;p class="first last"&gt;Hexagonal picnic table build&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Planning phase is complete, I think!&lt;/p&gt;
+&lt;p&gt;Haven't actually started on this one yet, but I have it modeled out. Here it is with eight creepy dudes all staring at each other (for scale):&lt;/p&gt;
+&lt;img alt="Hexagonal picnic table" src="/images/hexagonal_picnic_table_full.jpg" style="width: 100%;" /&gt;
+&lt;!-- Model --&gt;
+&lt;iframe
+    src="https://3dwarehouse.sketchup.com/embed.html?mid=2d62a7a2-edef-40dc-a660-4d51f7e5bfd7&amp;etp=im&amp;width=580&amp;height=326"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    width="100%"
+    height="500"
+    allowfullscreen
+&gt;&lt;/iframe&gt;&lt;p&gt;foobar!&lt;/p&gt;
+</content><category term="furniture"></category><category term="table"></category><category term="wood"></category></entry><entry><title>Hammock Stand v1</title><link href="https://thomaschamberlin.com/hammock-stand-v1.html" rel="alternate"></link><published>2018-05-24T18:08:00-04:00</published><updated>2018-05-24T18:08:00-04:00</updated><author><name>Thomas Chamberlin</name></author><id>tag:thomaschamberlin.com,2018-05-24:/hammock-stand-v1.html</id><summary type="html">&lt;p class="first last"&gt;Triangular hammock stand, round 1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Full prototype of a three-hammock stand. Far from perfect, but a good first draft. I learned a lot! Hadn't done double-angled cuts before, so that was fun to learn&lt;/p&gt;
+&lt;p&gt;The completed hammock stand:&lt;/p&gt;
+&lt;img alt="Picture of the completed hammock stand" src="/images/hammock_stand_v1.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;The model:&lt;/p&gt;
+&lt;iframe
+    src="https://3dwarehouse.sketchup.com/embed.html?mid=c0bb02d2-f4fb-4fa8-a5d9-d5636c8d25f1&amp;width=580&amp;height=326"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    width="100%"
+    height="500"
+    allowfullscreen
+&gt;&lt;/iframe&gt;&lt;p&gt;foobar!&lt;/p&gt;
+</content><category term="furniture"></category><category term="hammock"></category><category term="wood"></category></entry><entry><title>Hammock Stand v2</title><link href="https://thomaschamberlin.com/hammock-stand-v2.html" rel="alternate"></link><published>2018-05-24T18:08:00-04:00</published><updated>2018-05-24T18:08:00-04:00</updated><author><name>Thomas Chamberlin</name></author><id>tag:thomaschamberlin.com,2018-05-24:/hammock-stand-v2.html</id><summary type="html">&lt;p class="first last"&gt;Triangular hammock stand, round 2&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;This is my second attempt at a hammock stand. Like &lt;a class="reference external" href="https://thomaschamberlin.com/hammock-stand-v1.html"&gt;the first&lt;/a&gt;, it will hold three hammocks, but this resolves a few issues that I've had with the first one since getting it built:&lt;/p&gt;
+&lt;p&gt;Primarily, this iteration will be significantly larger. The first stand was far too short, and takes some finagling in order to prevent the hammocks from touching the ground.&lt;/p&gt;
+&lt;p&gt;I'll also be using some sort of hardwood and properly staining/sealing it for outdoor use -- the first stand was made with construction pine and is not very attractive and won't last long without painting.&lt;/p&gt;
+&lt;p&gt;Finally, I now own an orbital sander, so I'll be able to prevent issues with splinters.&lt;/p&gt;
+&lt;iframe
+    src="https://3dwarehouse.sketchup.com/embed.html?mid=1ca35a37-93d5-4b62-9e11-1a386bdefd28&amp;width=580&amp;height=326"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    width="580"
+    height="326"
+    allowfullscreen
+&gt;&lt;iframe/&gt;</content><category term="furniture"></category><category term="hammock"></category><category term="wood"></category></entry><entry><title>Indoor Garden v2</title><link href="https://thomaschamberlin.com/indoor-garden.html" rel="alternate"></link><published>2018-05-24T18:08:00-04:00</published><updated>2018-05-24T18:08:00-04:00</updated><author><name>Thomas Chamberlin</name></author><id>tag:thomaschamberlin.com,2018-05-24:/indoor-garden.html</id><summary type="html">&lt;p class="first last"&gt;Indoor garden, round 2&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;I got started with the indoor garden a little over a year ago. I'll make a post about that at some point soon, but I'll need to dig up the pictures.&lt;/p&gt;
+&lt;p&gt;Below is the plan for the next iteration. I currently have the three benches and the vertical H-frame built; pictures coming soon. The rest is awaiting the next burst of motivation...&lt;/p&gt;
+&lt;img alt="Indoor garden sketch" src="/images/indoor_garden_sketch.png" style="width: 100%;" /&gt;
+&lt;iframe
+    src="https://3dwarehouse.sketchup.com/embed.html?mid=9d6e06de-2c76-4cce-9884-ab6bb688ba68&amp;width=580&amp;height=326"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    width="100%"
+    height="500"
+    allowfullscreen
+/&gt;</content><category term="hydroponics"></category><category term="wood"></category></entry></feed>
