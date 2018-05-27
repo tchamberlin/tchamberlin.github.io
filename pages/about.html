@@ -27,6 +27,7 @@
     <link href="https://thomaschamberlin.com/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="https://thomaschamberlin.com/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="https://thomaschamberlin.com/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
     <link rel="stylesheet" href="https://thomaschamberlin.com/theme/css/style.css" type="text/css"/>
 
         <link href="https://thomaschamberlin.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
@@ -63,6 +64,11 @@ Thomas Chamberlin            </a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
+              <li><span>
+                <form class="navbar-search" action="/search.html">
+                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+                </form></span>
+              </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -107,6 +113,32 @@ Thomas Chamberlin            </a>
 </div><!-- Sidebar -->
 <section class="well well-sm">
   <ul class="list-group list-group-flush">
+
+<!-- Sidebar/Tag Cloud -->
+<li class="list-group-item">
+  <a href="https://thomaschamberlin.com/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+  <ul class="list-group list-inline tagcloud" id="tags">
+    <li class="list-group-item tag-4">
+      <a href="https://thomaschamberlin.com/tag/complete.html">complete</a>
+    </li>
+    <li class="list-group-item tag-0">
+      <a href="https://thomaschamberlin.com/tag/furniture.html">furniture</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="https://thomaschamberlin.com/tag/hammock.html">hammock</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="https://thomaschamberlin.com/tag/hydroponics.html">hydroponics</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="https://thomaschamberlin.com/tag/table.html">table</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="https://thomaschamberlin.com/tag/wood.html">wood</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Tag Cloud -->
 
 <!-- Sidebar/Github -->
 <li class="list-group-item">
