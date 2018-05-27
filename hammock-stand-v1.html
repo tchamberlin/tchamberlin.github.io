@@ -209,6 +209,15 @@ Thomas Chamberlin            </a>
 <section class="well well-sm">
   <ul class="list-group list-group-flush">
 
+<!-- Sidebar/Social -->
+<li class="list-group-item">
+  <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+  <ul class="list-group" id="social">
+    <li class="list-group-item"><a href="http://github.com/tchamberlin"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+  </ul>
+</li>
+<!-- End Sidebar/Social -->
+
 <!-- Sidebar/Tag Cloud -->
 <li class="list-group-item">
   <a href="https://thomaschamberlin.com/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
@@ -247,16 +256,6 @@ Thomas Chamberlin            </a>
 </li>
 <!-- End Sidebar/Series -->
 
-
-<!-- Sidebar/Github -->
-<li class="list-group-item">
-  <h4><i class="fa fa-github fa-lg"></i><span class="icon-label">GitHub Repos</span></h4>
-  <div id="gh_repos">
-    <p class="list-group-item">Status updating...</p>
-  </div>
-  <a href="https://github.com/tchamberlin">@tchamberlin</a> on GitHub
-</li>
-<!-- End Sidebar/Github -->
   </ul>
 </section>
 <!-- End Sidebar -->            </aside>
@@ -291,28 +290,6 @@ Thomas Chamberlin            </a>
 
 
     <script src="https://thomaschamberlin.com/theme/js/bodypadding.js"></script>
-
-<!-- GitHub JS Code -->
-<script type="text/javascript">
-$(document).ready(function () {
-  if (!window.jXHR) {
-    var jxhr = document.createElement('script');
-    jxhr.type = 'text/javascript';
-    jxhr.src = 'https://thomaschamberlin.com/theme/js/jXHR.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(jxhr, s);
-  }
-
-  github.showRepos({
-    user: 'tchamberlin',
-    count: 5,
-    skip_forks: true,
-    target: '#gh_repos'
-  });
-});
-</script>
-<script src="https://thomaschamberlin.com/theme/js/github.js" type="text/javascript"></script>
-<!-- End GitHub JS Code -->
     <!-- Disqus -->
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
